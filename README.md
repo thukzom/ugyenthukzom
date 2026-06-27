@@ -18,7 +18,8 @@
 
 ## Featured Projects
 🔹 Melanoma Detection Web Application  
-🔹 Text mining project  
-🔹 Traffic simulation
+🔹 Retail Customer Spending Analysis 
+🔹 News Topic Modeling  
+🔹 Drug Review Sentiment Analysis 
 
 📫 Feel free to connect with me on LinkedIn and explore my repositories!
